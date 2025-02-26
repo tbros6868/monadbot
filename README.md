@@ -120,7 +120,3 @@ dotenv: For environment variable management
 
 This project is licensed under the ISC License.
 
-## Contact
-
-Codeberg: https://codeberg.org/Galkurta
-Telegram: https://t.me/galkutaarchive
