@@ -56,8 +56,7 @@ Monad-BOT/
 1. Clone the repository:
 
    ```bash
-   git clone https://codeberg.org/Galkurta/Monad-BOT.git
-   cd Monad-BOT
+ 
    ```
 
 2. Install dependencies:
